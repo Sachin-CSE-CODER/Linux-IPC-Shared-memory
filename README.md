@@ -136,6 +136,6 @@ int main() {
 
 ## OUTPUT
 ![Alt text](<Screenshot at 2025-11-18 14-31-55.png>)
-
+![Alt text](<Screenshot at 2025-11-23 17-49-39.png>)
 # RESULT:
 The program is executed successfully.
